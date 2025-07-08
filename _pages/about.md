@@ -68,4 +68,4 @@ Outside academia, I enjoy long walks, good coffee, and conversations about how l
 ---
 
 
-If you’d like to connect, feel free to say hello via [email](mailto:yw590@cam.ac.uk) or [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME).
+If you’d like to connect, feel free to say hello via [email](mailto:yw590@cam.ac.uk) or [LinkedIn](https://uk.linkedin.com/in/yutong-wang-8046b1233).
