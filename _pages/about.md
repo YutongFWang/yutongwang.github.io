@@ -50,7 +50,7 @@ I supervise undergraduate papers:
 
 Previously, I also tutored for:
 
-- **Jesus College Winter Programme** - 2024, 2025
+- Jesus College Winter Programme - 2024, 2025
 
 Topics I’ve taught include:  
 IPA transcription • Speech acoustics • Mandarin phonetics • Research presentation skills
