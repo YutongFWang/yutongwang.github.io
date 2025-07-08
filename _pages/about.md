@@ -4,7 +4,7 @@ title: "About"
 permalink: /about/
 author_profile: true
 ---
-Hello! 👋
+Hello!
 
 I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Linguistics* at the **Phonetics & Phonology Lab, University of Cambridge**, supervised by Prof. Brechtje Post and Dr. Mitko Sabev (Saarland). My research investigates how morphophonological processes shape phonetic realisations in Beijing Mandarin, with interests in:
 
@@ -15,7 +15,7 @@ I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Lingu
 
 ---
 
-## 🎓 Academic Background
+## Academic Background
 
 - **PhD student in Theoretical and Applied Linguistics**, Jesus College, University of Cambridge (present)  
 - **MPhil in Theoretical and Applied Linguistics (Distinction)**, Darwin College, University of Cambridge (2022)  
@@ -36,7 +36,7 @@ My work explores how rime merger in Beijing Mandarin interacts with tonal proces
 
 ---
 ## Tools & Skills
-Praat, R, Python, SPSS, LaTeX
+Praat, R, Python, SPSS, \\(\LaTeX\\)
 
 ---
 
