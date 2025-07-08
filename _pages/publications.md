@@ -23,4 +23,3 @@ author_profile: true
 
 - Wang, Y.*, & Sabev, M. (2024). Incomplete neutralisation: evidence from Beijing retroflex suffixation. _MFiL 2024_, Manchester. [Talk]
 
-- Wang, Y., Gee, K., Yang, J., Yu, Z., & Chen, Y. (2020). Ideologies and language policy in the British press. _Multilingual Manchester_.
