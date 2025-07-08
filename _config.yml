@@ -13,14 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title: Yutong Felicia Wang
+email: yw590@cam.ac.uk
+description: "PhD student, Phonetics and Phonology Lab, University of Cambridge"
+baseurl: ""
+url: "https://yutongwang.github.io"
 minimal_mistakes_skin: default
 search: true
 
@@ -59,33 +56,27 @@ plugins:
 
 author:
   name   : "Yutong Felicia Wang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/IMG_4017.jpg"
+  bio    : "PhD student, Phonetics and Phonology Lab, University of Cambridge"
   links:
-    - label: "Website"
+    - label: "Lab Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.phonetics.mmll.cam.ac.uk/staff/yutong-wang"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/ythun_wan?s=11&t=tl8HBKumDgpecXsLPgGgnQ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/ythun_wan?s=11&t=tl8HBKumDgpecXsLPgGgnQ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
