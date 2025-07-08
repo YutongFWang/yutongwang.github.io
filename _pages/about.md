@@ -19,9 +19,9 @@ I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Lingu
 
 - **PhD student in Theoretical and Applied Linguistics**, Jesus College, University of Cambridge (present)  
 - **MPhil in Theoretical and Applied Linguistics (Distinction)**, Darwin College, University of Cambridge (2022)  
-  – Dissertation: *On the Nature of Beijing Retroflex Suffixation: An Acoustic Study*  
+  – Dissertation: *On the Nature of Beijing Retroflex Suffixation: An Acoustic Study*, supervised by Dr Mitko Sabev 
 - **BA in Linguistics (First Class Honours)**, University of Manchester (2021)  
-  – Dissertation: *Cues in Mandarin Tone Perception by Human Listeners and Automatic Recognisers*  
+  – Dissertation: *Cues in Mandarin Tone Perception by Human Listeners and Automatic Recognisers*, supervised by Dr Wendell Kimper  
 
 
 ---
@@ -62,8 +62,12 @@ IPA transcription • Speech acoustics • Mandarin phonetics • Research prese
 - Seminar Coordinator, Phonetics & Phonology Seminar Series (2024)  
 - Faculty/University Open Day Lab Demonstrator (2024. 2025)
 
-Outside academia, I enjoy long walks, good coffee, and conversations about how language shapes human experience.
+Outside academia, I enjoy running, good coffee, mixology, and support from my fluffy research assistants. Cho-Mee's one of them.
 
+<figure>
+  <img src="/assets/images/cho-mee.jpg" alt="Cho-Mee the cat" style="max-width: 100%; border-radius: 12px;">
+  <figcaption><small>Cho-Mee, honorary phonetics supervisor.</small></figcaption>
+</figure>
 
 ---
 
