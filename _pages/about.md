@@ -6,7 +6,7 @@ author_profile: true
 ---
 Hello!
 
-I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Linguistics* at the **Phonetics & Phonology Lab, University of Cambridge**. My research investigates how morphophonological processes shape phonetic realisations in Beijing Mandarin, with interests in:
+I’m **Yutong (Felicia) Wang**, a PhD student in Theoretical and Applied Linguistics at the **Phonetics and Phonology Lab, University of Cambridge**. My research investigates how morphophonological processes shape phonetic realisations in Beijing Mandarin, with interests in:
 
 - Acoustic phonetics
 - Rime merger and retroflex suffixation
