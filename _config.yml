@@ -32,7 +32,7 @@ author:
     - label: "Lab Profile"
       icon: "fas fa-fw fa-university"
       url: "https://www.phonetics.mmll.cam.ac.uk/staff/yutong-wang"
-     - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://uk.linkedin.com/in/yutong-wang-8046b1233"
     - label: "Twitter"
