@@ -8,10 +8,10 @@ Hello!
 
 I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Linguistics* at the **Phonetics & Phonology Lab, University of Cambridge**, supervised by Prof. Brechtje Post and Dr. Mitko Sabev (Saarland). My research investigates how morphophonological processes shape phonetic realisations in Beijing Mandarin, with interests in:
 
-- **Acoustic phonetics**
-- **Rime merger** and **retroflex suffixation**
-- **Incomplete contrast neutralisation**
-- The **phonetics–phonology interface**
+- Acoustic phonetics
+- Rime merger** and **retroflex suffixation
+- Incomplete contrast neutralisation
+- The phonetics–phonology interface
 
 ---
 
@@ -65,7 +65,7 @@ IPA transcription • Speech acoustics • Mandarin phonetics • Research prese
 Outside academia, I enjoy running, good coffee, mixology, and support from my fluffy research assistants. Cho-Mee's one of them.
 
 <figure>
-  <img src="/assets/images/cho-mee.jpg" alt="Cho-Mee the cat" style="max-width: 100%; border-radius: 12px;">
+  <img src="/assets/images/cho-mee.jpg" alt="Cho-Mee the cat" style="max-width: 50%; border-radius: 12px;">
   <figcaption><small>Cho-Mee, honorary RA </small></figcaption>
 </figure>
 
