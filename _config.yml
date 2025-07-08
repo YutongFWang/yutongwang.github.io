@@ -25,7 +25,7 @@ search: true
 author:
   name   : "Yutong (Felicia) Wang"
   avatar : "/assets/images/IMG_4017.jpg"
-  bio    : "PhD student in Theoretical and Applied Linguistics at the University of Cambridge. Interested in acoustic phonetics, phonetics-phonology interface, and incomplete contrast neutralisation."
+  bio    : "PhD student in Theoretical and Applied Linguistics at the University of Cambridge."
   location: "Cambridge, UK"
   links:
     - label: "Lab Profile"
