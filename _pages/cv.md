@@ -9,16 +9,15 @@ author_profile: true
 
 ## Education
 
-- **PhD in Theoretical and Applied Linguistics**, University of Cambridge (Jesus College), 2023–  
+- **PhD student in Theoretical and Applied Linguistics**, University of Cambridge (Jesus College)  
   _Supervisors: Prof Brechtje Post and Dr Mitko Sabev_
 
-- **MPhil in Theoretical and Applied Linguistics**, University of Cambridge (Darwin College), 2021–2022  
+- **MPhil in Theoretical and Applied Linguistics**, University of Cambridge (Darwin College), 2022  
   _Dissertation: On the Nature of Beijing Retroflex Suffixation: An Acoustic Study_
 
-- **BA in Linguistics**, University of Manchester, 2019–2021  
+- **BA in Linguistics**, University of Manchester, 2021  
   _First Class Honours; Dissertation: Cues in Mandarin Tone Perception_
 
-- **BA in English**, Beijing Language and Culture University, 2017–2019
 
 ## Teaching
 
