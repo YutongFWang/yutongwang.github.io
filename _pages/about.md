@@ -6,10 +6,10 @@ author_profile: true
 ---
 Hello!
 
-I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Linguistics* at the **Phonetics & Phonology Lab, University of Cambridge**, supervised by Prof. Brechtje Post and Dr. Mitko Sabev (Saarland). My research investigates how morphophonological processes shape phonetic realisations in Beijing Mandarin, with interests in:
+I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Linguistics* at the **Phonetics & Phonology Lab, University of Cambridge** My research investigates how morphophonological processes shape phonetic realisations in Beijing Mandarin, with interests in:
 
 - Acoustic phonetics
-- Rime merger** and **retroflex suffixation
+- Rime merger and retroflex suffixation
 - Incomplete contrast neutralisation
 - The phonetics–phonology interface
 
@@ -17,7 +17,8 @@ I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Lingu
 
 ## Academic Background
 
-- **PhD student in Theoretical and Applied Linguistics**, Jesus College, University of Cambridge (present)  
+- **PhD student in Theoretical and Applied Linguistics**, Jesus College, University of Cambridge (present)
+  – Supervised by Prof. Brechtje Post and Dr. Mitko Sabev (Saarland)
 - **MPhil in Theoretical and Applied Linguistics (Distinction)**, Darwin College, University of Cambridge (2022)  
   – Dissertation: *On the Nature of Beijing Retroflex Suffixation: An Acoustic Study*, supervised by Dr Mitko Sabev 
 - **BA in Linguistics (First Class Honours)**, University of Manchester (2021)  
@@ -28,15 +29,15 @@ I’m **Yutong (Felicia) Wang**, a PhD student in *Theoretical and Applied Lingu
 
 ## Current Research
 
-My work explores how rime merger in Beijing Mandarin interacts with tonal processes under retroflex suffixation. Using acoustic and statistical methods, I analyse:
+My work explores how segmental rime merger in Beijing Mandarin interacts with tonal processes under retroflex suffixation. Using acoustic and statistical methods, I analyse:
 
-- Spectral and temporal properties of rime changes
+- Spectral and temporal aspects of rime changes
 - Tonal shifts under morphological conditioning
 - Perceptual correlates of incomplete neutralisation
 
 ---
 ## Tools & Skills
-Praat, R, Python, SPSS, \\(\LaTeX\\)
+Praat, R, Python, SPSS, LaTeX
 
 ---
 
@@ -44,8 +45,8 @@ Praat, R, Python, SPSS, \\(\LaTeX\\)
 
 I supervise undergraduate papers:
 
-- **Li1 (Sounds and Words)** – 2024, 2025  
-- **Li6 (Phonetics)** – 2025  
+- Li1 (Sounds and Words) – 2024, 2025  
+- Li6 (Phonetics) – 2025  
 
 Previously, I also tutored for:
 
@@ -58,9 +59,9 @@ IPA transcription • Speech acoustics • Mandarin phonetics • Research prese
 
 ## Beyond the Lab
 
-- Editor, *Cambridge Occasional Papers in Linguistics* (2025–)  
-- Seminar Coordinator, Phonetics & Phonology Seminar Series (2024)  
-- Faculty/University Open Day Lab Demonstrator (2024. 2025)
+- Editor, *Cambridge Occasional Papers in Linguistics* - 2025, 2026  
+- Seminar Coordinator, Phonetics & Phonology Seminar Series - 2024  
+- Faculty/University Open Day Lab Demonstrator - 2024, 2025
 
 Outside academia, I enjoy running, good coffee, mixology, and support from my fluffy research assistants. Cho-Mee's one of them.
 
