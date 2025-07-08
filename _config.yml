@@ -20,6 +20,7 @@ baseurl: ""  # Don't change this
 url: "https://yutongfwang.github.io"  # Updated to match renamed repo
 minimal_mistakes_skin: default
 search: true
+mathjax: true
 
 # Author info
 author:
