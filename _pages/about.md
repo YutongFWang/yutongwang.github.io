@@ -66,7 +66,7 @@ Outside academia, I enjoy running, good coffee, mixology, and support from my fl
 
 <figure>
   <img src="/assets/images/cho-mee.jpg" alt="Cho-Mee the cat" style="max-width: 100%; border-radius: 12px;">
-  <figcaption><small>Cho-Mee, honorary phonetics supervisor.</small></figcaption>
+  <figcaption><small>Cho-Mee, honorary RA </small></figcaption>
 </figure>
 
 ---
