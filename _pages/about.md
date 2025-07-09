@@ -65,7 +65,7 @@ IPA transcription • Speech acoustics • Mandarin phonetics • Research prese
 
 Outside academia, I enjoy running, good coffee, mixology, and support from my fluffy research assistants. Cho-Mee's one of them.
 
-<figure>
+<figure style="text-align: center;">
   <img src="/assets/images/cho-mee.jpg" alt="Cho-Mee the cat" style="max-width: 50%; border-radius: 12px;">
   <figcaption><small>Cho-Mee, honorary RA </small></figcaption>
 </figure>
