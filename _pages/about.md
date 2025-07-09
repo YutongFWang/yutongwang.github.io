@@ -17,7 +17,7 @@ I’m **Yutong (Felicia) Wang**, a PhD student in Theoretical and Applied Lingui
 
 ## Academic Background
 
-- **PhD student in Theoretical and Applied Linguistics**, Jesus College, University of Cambridge (present)
+- **PhD student in Theoretical and Applied Linguistics**, Jesus College, University of Cambridge (expected 2027)
   <br>– Supervised by Prof Brechtje Post and Dr Mitko Sabev (Saarland)
 - **MPhil in Theoretical and Applied Linguistics (Distinction)**, Darwin College, University of Cambridge (2022)  
   – Dissertation: *On the Nature of Beijing Retroflex Suffixation: An Acoustic Study*, supervised by Dr Mitko Sabev 
