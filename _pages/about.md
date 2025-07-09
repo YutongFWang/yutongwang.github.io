@@ -65,12 +65,11 @@ IPA transcription • Speech acoustics • Mandarin phonetics • Research prese
 
 Outside academia, I enjoy running, good coffee, mixology, and support from my fluffy research assistants. Cho-Mee's one of them.
 
-<figure style="text-align: center;">
+<figure style="display: flex; flex-direction: column; align-items: center;">
   <img src="/assets/images/cho-mee.jpg" alt="Cho-Mee the cat" style="max-width: 50%; border-radius: 12px;">
-  <figcaption><small>Cho-Mee, honorary RA </small></figcaption>
+  <figcaption><small>Cho-Mee, honorary RA</small></figcaption>
 </figure>
 
 ---
-
 
 If you’d like to connect, feel free to say hello via [email](mailto:yw590@cam.ac.uk) or [LinkedIn](https://uk.linkedin.com/in/yutong-wang-8046b1233).
