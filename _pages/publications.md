@@ -17,8 +17,6 @@ author_profile: true
   
 - **Wang, Y.**, & Sabev, M.* (2023). Rime changes and mergers in Beijing retroflex suffixation: an acoustic study. In: Radek Skarnitzl & Jan Volín (Eds.), Proceedings of the 20th International Congress of Phonetic Sciences (pp. 1164–1168). Guarant International.
   
-![image](https://github.com/user-attachments/assets/dec83ed9-4dfc-40ca-a574-d9ec30c4682f)
-
 
 ### Other Presentations
 
@@ -31,7 +29,4 @@ author_profile: true
 - **Wang, Y.***, & Sabev, M. (2024). Rhoticity via language contact: a phonetic study on rime merger in Beijing retroflex suffixation. Presented at Jesus College Postgraduate Conference 2024, Cambridge, United Kingdom. 9 March. [Talk]
 
 - **Wang, Y.***, Sabev, M. (2023). Rime changes and mergers in Beijing retroflex suffixation: an acoustic study. Presented at Cambridge Language Sciences (CLS) Annual Symposium 2023, Cambridge, United Kingdom. 16 November. [Poster]
-
-![image](https://github.com/user-attachments/assets/91bc0b1b-2e03-444e-ab35-a5fa86be7d38)
-
 
